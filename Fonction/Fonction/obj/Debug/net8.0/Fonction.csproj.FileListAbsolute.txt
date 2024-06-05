@@ -1,0 +1,14 @@
+C:\Users\remim\source\repos\Fonction\Fonction\bin\Debug\net8.0\Fonction.exe
+C:\Users\remim\source\repos\Fonction\Fonction\bin\Debug\net8.0\Fonction.deps.json
+C:\Users\remim\source\repos\Fonction\Fonction\bin\Debug\net8.0\Fonction.runtimeconfig.json
+C:\Users\remim\source\repos\Fonction\Fonction\bin\Debug\net8.0\Fonction.dll
+C:\Users\remim\source\repos\Fonction\Fonction\bin\Debug\net8.0\Fonction.pdb
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.AssemblyInfoInputs.cache
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.AssemblyInfo.cs
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.csproj.CoreCompileInputs.cache
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.dll
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\refint\Fonction.dll
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.pdb
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\Fonction.genruntimeconfig.cache
+C:\Users\remim\source\repos\Fonction\Fonction\obj\Debug\net8.0\ref\Fonction.dll
